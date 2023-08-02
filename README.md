@@ -49,5 +49,6 @@ create a pull request.
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ofmiq/2048-game/blob/master/) file
+This project is licensed under the MIT License - see
+the [LICENSE](https://github.com/ofmiq/2048-game/blob/master/LICENSE) file
 for details.
